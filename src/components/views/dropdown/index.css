@@ -1,0 +1,23 @@
+.all-clinic{
+    background-color: transparent !important;
+    color: black;
+    border: none !important;
+    outline: none !important;
+}
+
+.clinicname{
+    /* border: none !important; */
+    width: 291px;
+    background-color: #ffffff;  
+    margin-bottom: 0px;
+}
+.clinicname:hover{
+    color: #0356e7;
+    cursor: pointer;
+}
+.dropdown-menu{
+    border: none;
+    box-shadow: 0 6px 12px 0 rgba(0, 0, 0, 0.36);
+    background-color: #ffffff;
+  
+}

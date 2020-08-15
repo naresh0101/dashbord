@@ -1,0 +1,25 @@
+
+.bell{
+    background-color: blue;
+    border-radius: 50%;
+}
+.bg-blue{
+    background-color: #0356e7 !important;
+}
+.bg-none{
+    background-color: white;
+}
+.dropdown-menu{
+    padding: 0px;
+}
+.dropdown-menu span{
+    color: white !important;
+  /* background-color: #ffffff; */
+}
+.dropdown-menu-right{
+    box-shadow: 0 6px 12px 0 rgba(0, 0, 0, 0.36);
+
+}
+.small{
+    color: white !important;
+}

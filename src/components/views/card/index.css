@@ -1,0 +1,27 @@
+
+.custom-card{
+    /* width: 22%; */
+    border-radius: 2px;
+    background-color: #ffffff;  
+}
+.custom-card h6{
+    font-size: 13px;
+  font-weight: 450;
+  line-height: 1.23;
+  letter-spacing: normal;
+  text-align: left;
+  color: black;
+}
+.custom-card h3{
+    color: #0356e7;
+}
+.custom-card p{
+    font-size: 12px;
+    font-weight: normal;
+    font-stretch: normal;
+    font-style: normal;
+    line-height: 1.25;
+    letter-spacing: normal;
+    text-align: left;
+    color: #93989b;
+}

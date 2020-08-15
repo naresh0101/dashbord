@@ -1,0 +1,25 @@
+.Ellipse-221 {
+    width: 7px;
+    height: 7px;
+    padding: 4px;
+    background-color: #0356e7;
+  }
+
+a{
+  font-size: 16px;
+  font-weight: 500;
+  font-style: normal;
+  line-height: 1.19;
+  letter-spacing: normal;
+  text-align: left;
+  color: black;
+}
+.border-bottom-0{
+    border-bottom:1px solid rgba(248, 244, 244, 0.678) !important;
+}
+.unactive{
+    list-style: none;
+}
+.active, .active a{
+    color: #0356e7;
+}
